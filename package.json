@@ -1,13 +1,13 @@
 {
-  "name": "projectName",
-  "version": "0.0.1",
+  "name": "isNullOrEmpty.js",
+  "version": "1.0.0",
   "license": "MIT",
-  "author": "author name",
-  "contact": "author contact details",
-  "url": "https://github.com/author/repo",
+  "author": "Andy White",
+  "contact": "https://twitter.com/etihWydnA",
+  "url": "http://andywhite87.github.io/isNullOrEmpty.js/",
   "repository": {
     "type": "git",
-    "url": "git://github.com/author/repo.git"
+    "url": "git://github.com/AndyWhite87/isNullOrEmpty.js.git"
   },
   "dependencies": {
     "grunt": "~0.4.5",
