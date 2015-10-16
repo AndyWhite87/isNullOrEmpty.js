@@ -4,7 +4,7 @@ module.exports = function(grunt) {
 
     pkg: grunt.file.readJSON('package.json'),       // Read in package variable from package.json
 
-    filename: '<%= pkg.name %>.<%= pkg.version %>', // Construct a filename from package vars
+    filename: 'isNullOrEmpty.<%= pkg.version %>', // Construct a filename from package vars
 
     timestamp: new Date().toUTCString(),            // Get a timestamp for banner comments
 
